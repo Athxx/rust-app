@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "app/cli",
+    "app/im",
+    "app/map",
+    "app/moment",
+    "app/news",
+    "app/search",
+    "app/store",
+    "app/user",
+    "src/db",
+    "src/svc",
+    "src/util",
+]
